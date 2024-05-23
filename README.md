@@ -25,6 +25,9 @@ The program will calculate your BMI and display it along with a weight status me
    Sample Output
 
    Enter Your Weight in Kilogram: 70
+   
    Enter Your height in meters: 1.75
+   
    Your BMI Is: 22.86
+   
    You have a normal Weight.
