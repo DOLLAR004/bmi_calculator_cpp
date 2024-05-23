@@ -18,6 +18,7 @@ This is a simple BMI (Body Mass Index) calculator program written in C++. It cal
 2. Run the program.(Execute the compiled program).
 3. Enter weight and Height:
    Follow the prompts to enter your weight (in kilogram) and height(in meters).
+   
 4.View BMI and weight status:
 The program will calculate your BMI and display it along with a weight status message.
 
